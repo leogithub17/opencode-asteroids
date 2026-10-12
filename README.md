@@ -43,3 +43,5 @@ Luego visita `http://localhost:3000`.
 - 3 vidas con invencibilidad temporal al reaparecer (parpadeo)
 - Asteroides se parten en fragmentos más pequeños al ser destruidos
 - Partículas de explosión al destruir asteroides
+- Power-up **Velocidad** (doble flecha cian `>>`): aparece al destruir asteroides con una probabilidad del 15% y le permite a la nave moverse al doble de rápido durante 5 segundos
+- **Nave enemiga roja**: aparece cada 100 puntos acumulados, flota a lo largo del borde superior y se destruye de una bala (no se parte en fragmentos). Destruirla otorga 150 puntos y activa instantáneamente el power-up de velocidad durante 5 segundos
